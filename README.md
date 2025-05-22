@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="SquatAI logo" width="220">
+</p>
+
 # 🏋️ Real-Time Squat Analysis Tool (YOLOv8 + PyQt5)
 
 This project provides a real-time squat form analyser that uses **YOLOv8 pose estimation** inside a **PyQt5 GUI**.  
