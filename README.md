@@ -35,8 +35,8 @@ It measures **knee angle** and **torso angle**, gives a traffic-light depth cue,
 
 ### 1  Clone the repository
 ```bash
-git clone [[https://github.com/your-username/squat-analyzer.git](https://github.com/El3ctricR/squat_tracker_awrc_demo)](https://github.com/El3ctricR/squat_tracker_awrc_demo)
-cd squat-analyzer
+git clone https://github.com/El3ctricR/squat_tracker_awrc_demo.git
+cd squat_tracker_awrc_demo
 ```
 
 ---
