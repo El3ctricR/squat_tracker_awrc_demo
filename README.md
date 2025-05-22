@@ -1,5 +1,3 @@
-![ChatGPT Image May 22, 2025, 03_20_12 PM](https://github.com/user-attachments/assets/46bd0dcc-c89f-418b-97f9-3d0f3eec9def)
-
 # 🏋️ Real-Time Squat Analysis Tool (YOLOv8 + PyQt5)
 
 This project provides a real-time squat form analyser that uses **YOLOv8 pose estimation** inside a **PyQt5 GUI**.  
