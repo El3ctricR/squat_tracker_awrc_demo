@@ -35,3 +35,7 @@ This project provides a real-time squat form analyzer using **YOLOv8 pose estima
 ```bash
 git clone https://github.com/your-username/squat-analyzer.git
 cd squat-analyzer
+
+#### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
