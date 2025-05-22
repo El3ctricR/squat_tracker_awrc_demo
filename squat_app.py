@@ -11,8 +11,8 @@ from PyQt5.QtGui import QImage, QPixmap
 from ultralytics import YOLO
 
 # === Constants ===
-MODEL_PATH = r'D:\Python FIles\squat_tracker_awrc_demo\squat_tracker_awrc_demo\models\yolov8l-pose.pt'
-LOGO_PATH = r'D:\Python FIles\squat_tracker_awrc_demo\squat_tracker_awrc_demo\logo.png'
+MODEL_PATH = r'model path (can use any YoloV8-pose please download from ultralytics site'
+LOGO_PATH = r'logo path (only needed if you want the logo on the pop-up window)'
 
 SKELETON = [
     (5, 7), (7, 9),       # Right arm (blue)
