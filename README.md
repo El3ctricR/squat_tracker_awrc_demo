@@ -42,7 +42,7 @@ cd squat_tracker_awrc_demo
 ---
 
 ### 2  Install dependencies
-> Requires **Python 3.8 +**. A CUDA-capable GPU is recommended for 30 FPS+.
+> Requires **Python 3.8 +**. A CUDA-capable GPU is recommended for 30 FPS+. Can be done on cpu.
 
 ```bash
 pip install -r requirements.txt
